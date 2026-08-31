@@ -1,0 +1,18 @@
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated model artifacts
+models/*.pkl
+
+# Generated outputs
+models/*.csv
+
+# IDE
+.vscode/
+.idea/
